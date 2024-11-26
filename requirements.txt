@@ -1,0 +1,6 @@
+langchain_ollama==0.2.0
+beautifulsoup4==4.12.3
+cleantext==1.1.4
+clean-text==0.4.4
+requests==2.32.3
+unicode==2.9
